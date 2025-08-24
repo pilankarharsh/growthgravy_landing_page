@@ -1,0 +1,32 @@
+{
+  "Grade 1-2": [
+    { "img": "assets/game-ai.png", "title": "Game Dev <br>with AI" },
+    { "img": "assets/3d-vr.png", "title": "3D Game <br>& VR" },
+    { "img": "assets/mobile.png", "title": "Mobile App <br>Development" },
+    { "img": "assets/chatbot.png", "title": "AI Chatbots <br>& Voice Assistants" }
+  ],
+  "Grade 3-4": [
+    { "img": "assets/3d-vr.png", "title": "3D Game <br>& VR" },
+    { "img": "assets/chatbot.png", "title": "Chatbots <br>& Alexa Skills" },
+    { "img": "assets/game-ai.png", "title": "Game Dev <br>with AI" },
+    { "img": "assets/mobile.png", "title": "Mobile App <br>Development" }
+  ],
+  "Grade 5-6": [
+    { "img": "assets/mobile.png", "title": "Mobile App <br>Development" },
+    { "img": "assets/game-ai.png", "title": "Game Dev <br>with AI" },
+    { "img": "assets/chatbot.png", "title": "Chatbots <br>& Alexa Skills" },
+    { "img": "assets/3d-vr.png", "title": "3D Game <br>& VR" }
+  ],
+  "Grade 7-8": [
+    { "img": "assets/chatbot.png", "title": "AI Chatbots <br>& Voice Assistants" },
+    { "img": "assets/mobile.png", "title": "Mobile App <br>Development" },
+    { "img": "assets/3d-vr.png", "title": "3D Game <br>& VR" },
+    { "img": "assets/game-ai.png", "title": "Game Dev <br>with AI" }
+  ],
+  "Grade 9-10": [
+    { "img": "assets/mobile.png", "title": "Mobile App <br>Development" },
+    { "img": "assets/chatbot.png", "title": "AI Chatbots <br>& Voice Assistants" },
+    { "img": "assets/game-ai.png", "title": "Game Dev <br>with AI" },
+    { "img": "assets/3d-vr.png", "title": "3D Game <br>& VR" }
+  ]
+}

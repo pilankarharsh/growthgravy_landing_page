@@ -1,0 +1,42 @@
+:root {
+  /* Primary Colors */
+  --primary-blue: #2563eb;  
+  --primary-blue-light: #3bb4ff; 
+  --primary-blue-dark: #1e40af; 
+
+  --error-color:#F06E6D;
+
+  /* Accent Colors */
+  --accent-yellow: #facc15;     
+  --accent-orange: #f59e0b;      
+  --accent-pink: #f472b6;       
+
+  /* Backgrounds */
+  --bg-light: #f9fafb;        
+  --bg-white: #ffffff;     
+  --bg-grey: #F3F6FB;      
+  --bg-hero-gradient-start: #e0f2ff;
+  --bg-hero-gradient-end: #ffffff;
+
+  /* Text Colors */
+  --text-dark: #1f2937;
+  --text-grey: #e0e0e0;    
+  --text-medium: #4b5563;   
+  --text-light: #fcfcfc;         
+
+  /* Border and UI Colors */
+  --border-light: #e5e7eb;      
+  --shadow-light: rgba(0, 0, 0, 0.05);
+  --shadow-medium: rgba(0, 0, 0, 0.1);
+
+  /*Font*/
+  /*family*/
+--font: 'Montserrat', 'Segoe UI', Roboto, sans-serif;
+  /*weight*/
+  --font-light: 300;
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+  --font-extrabold: 800;
+}

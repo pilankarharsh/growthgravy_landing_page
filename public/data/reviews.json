@@ -1,0 +1,52 @@
+[
+  
+  {
+    "name": "Melissa",
+    "relation": "Kevin’s mom, Grade 8, UK",
+    "text": "Camp K12 has helped Kevin come out of his shell and enabled him to express everything better.",
+    "stars": 5,
+    "photo": "Melissa.png"
+  },
+  {
+    "name": "Sarah",
+    "relation": "Cade’s mom, Grade 5, USA",
+    "text": "The curriculum is personalized for Cade’s specific interests. Camp K12 is the first coding platform that is able to hold my son’s attention.",
+    "stars": 5,
+    "photo": "Sarah.png"
+  },
+  {
+    "name": "Jason",
+    "relation": "Arvin’s dad, Grade 3, USA",
+    "text": "Jason is homeschooled and is now developing his programming prowess with Camp K12.",
+    "stars": 5,
+    "photo": "Jason.png"
+  },
+  {
+    "name": "Mrs. Jain",
+    "relation": "Adi’s mom, Grade 8, USA",
+    "text": "The course helped Adi get accepted into the IT club of his school, and he has been asked by his teachers to build a website for the school.",
+    "stars": 5,
+    "photo": "Mrs. Jain.png"
+  },
+  {
+    "name": "Jason",
+    "relation": "Arvin’s dad, Grade 3, USA",
+    "text": "Jason is homeschooled and is now developing his programming prowess with Camp K12.",
+    "stars": 5,
+    "photo": "Jason.png"
+  },
+  {
+    "name": "Melissa",
+    "relation": "Kevin’s mom, Grade 8, UK",
+    "text": "Camp K12 has helped Kevin come out of his shell and enabled him to express everything better.",
+    "stars": 5,
+    "photo": "Melissa.png"
+  },
+  {
+    "name": "Sarah",
+    "relation": "Cade’s mom, Grade 5, USA",
+    "text": "The curriculum is personalized for Cade’s specific interests. Camp K12 is the first coding platform that is able to hold my son’s attention.",
+    "stars": 5,
+    "photo": "Sarah.png"
+  }
+]
